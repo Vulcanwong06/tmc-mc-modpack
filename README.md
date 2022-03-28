@@ -4,7 +4,7 @@
 ## 安裝教學
 (待完成)
 
-## 模組列表 / Mod List
+## 模組列表 / Mod List (BETA 1.1)
 
 - [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 - [MrCrayfish's Vehicle Mod (Required Obfuscate)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-vehicle-mod)
