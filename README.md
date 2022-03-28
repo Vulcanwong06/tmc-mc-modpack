@@ -1,4 +1,5 @@
 # The Mars City Server Minecraft Modpack <br/>火星城市伺服器Minecraft模組包
+[下載模組包](https://github.com/mcpro2019/tmc-mc-modpack/releases)
 
 ## 安裝教學
 (待完成)
