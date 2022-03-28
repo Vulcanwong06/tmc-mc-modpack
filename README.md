@@ -1,4 +1,4 @@
-# The Mars City Server Modpack / 火星城市伺服器模組包
+# The Mars City Server Minecraft Modpack 火星城市伺服器Minecraft模組包
 
 ## 安裝教學
 (待完成)
